@@ -1,1 +1,1 @@
-git commit -S -m 'something'
+git config --global commit.gpgpsign true
